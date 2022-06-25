@@ -1,2 +1,3 @@
-# smilga-06-tabs
-Created with CodeSandbox
+#### IN ACTION
+
+[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
